@@ -1,6 +1,6 @@
 # Projeto_IA
 
-##Membros:
+Membros:
 Giovanna da Costa Silva
 Luiza Liao 
-Luiza Sayuri Kawakami##
+Luiza Sayuri Kawakami
